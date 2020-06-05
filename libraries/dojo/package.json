@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@dojo/framework": "6.0.5",
-    "@webcomponents/webcomponentsjs": "1.2.6"
+    "@webcomponents/webcomponentsjs": "2.4.3"
   },
   "devDependencies": {
     "@types/chai": "4.2.11",
